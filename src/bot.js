@@ -21,8 +21,6 @@ vk.updates.on("message", async (message, next) => {
 })
 vk.commands = new Collection();
 vk.aliases = new Collection();
-vk.commands_array = [];
-vk.prefix = "/";
 vk.db = {
     user: User,
 }

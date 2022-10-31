@@ -1,6 +1,6 @@
-# Vk bot template!
+# Образец Вк-бота!
 
-**Links:**
+**Ссылки:**
 
 💻 Node.js: https://nodejs.org/ru/
 
@@ -11,17 +11,17 @@
 📑 VK-IO Docs: https://negezor.github.io/vk-io/ru/guide/api.html
 
 ---
-# install
-### 📨 **File** `example.env` rename to `.env`
+# Установика
+### 📨 **Файл** `example.env` переменуйте в `.env`
 ```Shell
 token=VkBotToken
 uri=MongoUri
 apiVersion=# https://dev.vk.com/reference/versions
 ```
 
-### 📥 Install all modules — `npm install`
+### 📥 Установите все модули — `npm install`
 
-### ✅ Launch the Bot — `node .`
+### ✅ Запустите бота — `node .`
 ---
 ```js
 contacts: {
