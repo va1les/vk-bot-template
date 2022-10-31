@@ -11,7 +11,7 @@
 📑 VK-IO Docs: https://negezor.github.io/vk-io/ru/guide/api.html
 
 ---
-# Установика
+# Установка
 ### 📨 **Файл** `example.env` переменуйте в `.env`
 ```Shell
 token=VkBotToken
